@@ -1,0 +1,5 @@
+Mở CMD vào file tải tool (Tool NODE)
+npm i gradient-string
+node fdvn.js link 10 64 2 prxen.txt (prxvn.txt)
+
+
